@@ -1,0 +1,252 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    
+}
+
+
+.netflixHeader{
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav{
+    width: 100%;
+    
+    height: 700px;
+    background-image: url(/images/netflix.jpeg);
+    -webkit-box-shadow: inset 30px 70px 70px 20px  black;   
+    
+
+}
+
+.nav-link{
+    
+    height: 50px;
+    width: 100%;
+       
+
+
+}
+
+.logo-img{
+    height: 50px;
+    width: 150px;
+    
+    margin-left: 145px;
+    margin-top: 15px;
+}
+
+.lang-select{
+    display: inline;
+}
+
+.dropdown{
+    margin-left: 400px;
+    margin-top: 15px;
+   
+    
+
+}
+
+.oturumac{
+    margin-left: 365px;
+    margin-top: 15px;
+    background-color: red;
+}
+
+.info{
+    text-align: center;
+    color: white;
+    margin: auto;
+    margin-top: -45px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+.info-title{
+    font-size: 50px;
+    
+}
+
+.info-p1{
+    font-size: 30px;
+}
+.info-p2{
+    font-size: 20px;
+}
+.line{
+    width: 100%;
+    height: 8px;
+    background-color: rgb(61, 61, 61);
+}
+.netflixMain{
+    background-color: black;
+}
+
+.content{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+
+.form-control{
+    margin: auto;
+    margin-left: 300px;
+}
+
+.baslayın{
+    margin: auto;
+    margin-top: 2.5px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+
+.main-title{
+    margin: auto;
+    margin-top: 95px;
+    margin-left: 200px;
+    color:white;
+}
+
+.main-title1{
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 200px;
+    color:white;
+
+}
+
+.tv-img{
+    height: 450px;
+    width: 450px;
+    margin: auto;
+    margin-left: 130px;
+    margin-bottom: 300px;
+}
+.netflixFooter{
+    background-color: black;
+}
+
+.main-title2{
+    margin: auto;
+    margin-top: 95px;
+    margin-left: 110px;
+    color:white;
+
+}
+
+.main-title3{
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 110px;
+    color:white;
+
+}
+
+.tv-img1{
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+
+.sikçasorulan{
+    text-align: center;
+    color: white;
+    margin: auto;
+    margin-top: 80px;
+    
+}
+
+.accordion{
+    
+    margin:auto;
+    margin-top: 10px;
+    
+    
+    
+}
+
+.soru{
+    margin: auto;
+    margin-top: 55px;
+    margin-left: 150px;
+    color: gray;
+
+
+}
+
+.kucuk{
+    margin: auto;
+    margin-top: 55px;
+    margin-left: 150px;
+    color: gray;
+    text-decoration: underline;
+
+
+}
+
+.kucuk1{
+
+    margin: auto;
+    margin-top: 8px;
+    margin-left: 150px;
+    color: gray;
+    text-decoration: underline;
+
+
+}
+
+.dropdown1{
+    margin-left: 150px;
+    margin-top: 35px;
+}
+
+.kucuk3{
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 150px;
+    color: gray;
+   
+
+}
+
+.accordion-button{
+    background-color: #000000;
+    color: white;
+
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+  }
+
+.accordion-button.collapsed {
+    background-color: #000000;
+}
+.accordion-body {
+    background-color: #000000;
+    color: white;
+}
+
+.accordion-header button {
+    color: white;
+  }
+
+
+  .accordion-button.collapsed::after {
+ 
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    
+    background-color: aliceblue;
+    position: relative;
+
+}
